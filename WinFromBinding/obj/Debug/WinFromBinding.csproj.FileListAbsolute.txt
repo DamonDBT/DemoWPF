@@ -1,0 +1,14 @@
+E:\codeStudy\8-C#\DemoWPF\WinFromBinding\bin\Debug\WinFromBinding.exe.config
+E:\codeStudy\8-C#\DemoWPF\WinFromBinding\bin\Debug\WinFromBinding.exe
+E:\codeStudy\8-C#\DemoWPF\WinFromBinding\bin\Debug\WinFromBinding.pdb
+E:\codeStudy\8-C#\DemoWPF\WinFromBinding\obj\Debug\WinFromBinding.csprojResolveAssemblyReference.cache
+E:\codeStudy\8-C#\DemoWPF\WinFromBinding\obj\Debug\WinFromBinding.Form1.resources
+E:\codeStudy\8-C#\DemoWPF\WinFromBinding\obj\Debug\WinFromBinding.Properties.Resources.resources
+E:\codeStudy\8-C#\DemoWPF\WinFromBinding\obj\Debug\WinFromBinding.csproj.GenerateResource.Cache
+E:\codeStudy\8-C#\DemoWPF\WinFromBinding\obj\Debug\WinFromBinding.exe
+E:\codeStudy\8-C#\DemoWPF\WinFromBinding\obj\Debug\WinFromBinding.pdb
+E:\codeStudy\8-C#\DemoWPF\WinFromBinding\obj\Debug\WinFromBinding.Form2.resources
+E:\codeStudy\8-C#\DemoWPF\WinFromBinding\bin\Debug\Google.Protobuf.dll
+E:\codeStudy\8-C#\DemoWPF\WinFromBinding\bin\Debug\MySql.Data.dll
+E:\codeStudy\8-C#\DemoWPF\WinFromBinding\bin\Debug\Google.Protobuf.xml
+E:\codeStudy\8-C#\DemoWPF\WinFromBinding\bin\Debug\MySql.Data.xml
